@@ -1,9 +1,9 @@
 {
-  "version": "",
-  "notes": "",
+  "version": "1.0.0",
+  "notes": "Vahan New",
   "platforms": {
     "windows-x86_64": {
-      "signature": "",
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTV2x4N2hwZEpxTDFFZDZSNVlTY0NyR0g5V3NhOTVlYmJybFBUWGYrS2FRTTdvL0tRa3M2TjAwN0poa1lXUFlxMmUwY3M4YjBFMDBBQWhGWkwzMlU1TFpwaTcvdFBBeFE0PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzI5MTM0OTQyCWZpbGU6VmFoYW5ZYWFyXzEuMC4wX3g2NC1zZXR1cC5uc2lzLnppcApXMTBFcUFqR2xLVkJIa0lpNFM0b1FHYjl0Sm1RZW95OXl4dFRYTG8vMDc2SVQ3SndUZndwRlN1amFZSEhLL2Q4czluNkhmRlBoZ3MwTEFCclptVzlDQT09Cg==",
       "url": ""
     }
   }
