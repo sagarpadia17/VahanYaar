@@ -1,1 +1,10 @@
-
+{
+  "version": "",
+  "notes": "",
+  "platforms": {
+    "windows-x86_64": {
+      "signature": "",
+      "url": ""
+    }
+  }
+}
